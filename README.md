@@ -1,13 +1,13 @@
-# MinorLeagueInjuriesImpactStudy
+# MinorLeagueInjuriesImpactStudy 🏥⚾
 
 ![MLB](https://img.shields.io/badge/data-MLB-blue)
 ![Analysis](https://img.shields.io/badge/type-analysis-green)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
-## Overview
+## Overview 📖
 This repository contains data and analysis from the STATS 141xp final project, focused on studying the effects of injuries in Minor League Baseball (MiLB) on future Major League Baseball (MLB) performance. The goal is to understand how the largest gaps in game play due to injuries correlate with career Wins Above Replacement (WAR) metrics in MLB.
 
-## Contents
+## Contents 📂
 | File                     | Description |
 |--------------------------|-------------|
 | `2015_2022_pitcher_war.csv` | Contains WAR data for pitchers from 2015 to 2022. |
@@ -22,5 +22,5 @@ This repository contains data and analysis from the STATS 141xp final project, f
 | `scrape.ipynb`           | Jupyter notebook containing Python scripts used for scraping and processing the data. |
 | `war.ipynb`              | Jupyter notebook used for calculating the WAR and analyzing its implications. |
 
-## Research Findings
+## Research Findings 🔍
 Our analysis indicates that the maximum amount of consecutive games a Minor League position player misses has very little effect, either negative or positive, on his Major League career. Detailed findings and visualizations are provided in the respective CSV files and Jupyter notebooks.
