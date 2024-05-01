@@ -24,3 +24,13 @@ This repository contains data and analysis from the STATS 141xp final project, f
 
 ## Research Findings 🔍
 Our analysis indicates that the maximum amount of consecutive games a Minor League position player misses has very little effect, either negative or positive, on his Major League career. Detailed findings and visualizations are provided in the respective CSV files and Jupyter notebooks.
+
+## Technologies Used 💻
+- **Python**: Primary programming language.
+- **Jupyter Notebook**: Interactive computing and development environment.
+  
+## Libraries and Tools 🛠️
+- **Pandas**: Data manipulation and analysis.
+- **NumPy**: Numerical operations.
+- **Matplotlib**: Data visualization.
+- **Scikit-Learn**: Machine learning library used for calculating WAR and other metrics.
