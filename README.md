@@ -34,3 +34,4 @@ Our analysis indicates that the maximum amount of consecutive games a Minor Leag
 - **NumPy**: Numerical operations.
 - **Matplotlib**: Data visualization.
 - **Scikit-Learn**: Machine learning library used for calculating WAR and other metrics.
+- **BeautifulSoup**: Data scraping from MLB website.
